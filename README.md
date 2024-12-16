@@ -8,6 +8,7 @@ Data preprocessing is a crucial step in  machine learning pipeline. It involves 
 ## 2. Regression
 regression is a supervised learning technique used to model the relationship between a dependent and one or many independent variables. it predicts a continuous output.  
 #### Types of Regression: 
-&ensp;&ensp;&ensp;i. Linear Regression
-  
+&ensp;&ensp;&ensp;i. Linear Regression 
+&ensp;&ensp;&ensp;ii. Polynomial Regression 
+&ensp;&ensp;&ensp;iii. Support Vector Regression
         
